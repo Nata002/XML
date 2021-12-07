@@ -1,0 +1,9 @@
+<xml>
+	<person>
+		<first name>Nataliia</first name>
+		<last name>Vororniuk</last name>
+		<age>24</age>
+		<animals>I have gold fish</animals>
+		<salary>400</salary>
+	</person>
+</xml>
