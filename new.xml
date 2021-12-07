@@ -1,7 +1,7 @@
 <xml>
 	<person>
-		<first name>Nataliia</first name>
-		<last name>Vororniuk</last name>
+		<first_name>Nataliia</first_name>
+		<last_name>Vororniuk</last_name>
 		<age>24</age>
 		<animals>I have gold fish</animals>
 		<salary>400</salary>
