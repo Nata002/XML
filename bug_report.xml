@@ -1,0 +1,10 @@
+
+	<Summary>Созданте нового репозитория</Summary>
+	<Preconditions>Открыта строница провиля на GitHub.com</Preconditions>
+	<Steps>
+        <1>Открыта страница на https://github.com</1>
+		<2>Нависти курсор на значок add file</2>
+		<3>И нажать create new fiel</3>
+    </Steps>
+	<Rusult>Новый репозиторий создан</Rusult>
+	<Expected Result>Создан новый репозиторий</Expected Result>
